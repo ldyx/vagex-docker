@@ -13,7 +13,7 @@ docker中挂vagex
 <br>上图所示的ip地址为：153.125.234.207，端口号为31753，该容器的默认密码为vncpassword
 ## 四、下载firefox
 #下载最新版firefox
-请使用浏览器输入地址：https://drive.google.com/uc?export=download&id=0B1x8lD_QdmqaZlBMal8xeWJiZTQ下载
+请使用浏览器输入地址：https://drive.google.com/uc?export=download&id=0B1x8lD_QdmqaZlBMal8xeWJiZTQ下载，请将该文件保存在桌面Desktop
 <br>#解压<br>
 ```
 tar xvf firefox-35.0.3.tar.gz
@@ -40,7 +40,7 @@ tar xvf firefox-35.0.3.tar.gz
 <br>设置浏览器不自动更新
 ## 下载脚本
 该脚本为本人所写<br>
-请使用浏览器输入地址：http://drive.google.com/uc?export=download&id=0B1x8lD_QdmqaQm5Fa2MyemxmdkE下载
+请使用浏览器输入地址：http://drive.google.com/uc?export=download&id=0B1x8lD_QdmqaQm5Fa2MyemxmdkE下载，请将该文件保存在桌面Desktop
 <br>输入以下命令运行脚本
 ```
 bash check.sh > /dev/null 2>&1
